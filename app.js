@@ -38,7 +38,7 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
             <div class="card">
-                <h1> DevOps Project live</h1>
+                <h1> DevOps Project is live</h1>
                 <p>Hello from Jenkins + Docker + AWS EC2 </p>
                 <p>Status: <b style="color:lightgreen;">Running Successfully </b></p>
                 <div class="footer">
